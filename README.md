@@ -308,7 +308,7 @@ The principal comparisons hold the latent world and corruption draws fixed acros
 
 For reproducible runs, preserve the notebook version or Git commit, complete configuration, environment versions, seeds, training history, model weights, raw sweep metrics, and threshold definitions. Compare repeated realizations before assigning uncertainty intervals or generalizing the observed curve ordering.
 
-## References
+## Main References
 
 The experiment design and notebook implementation are the work of **Ali Khabazian**. The following are foundational references for the information-theoretic, attention-based, and stochastic-process concepts used here:
 
